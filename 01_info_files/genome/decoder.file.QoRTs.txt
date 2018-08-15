@@ -1,0 +1,9 @@
+sample.ID	group.ID	size.factor
+HI.4112.001.D707---D503.X1_jctseq	orange	1.1194474
+HI.4112.001.D707---D504.X2_jctseq	orange	0.8994799
+HI.4112.001.D707---D505.X3_jctseq	orange	1.0205652
+HI.4112.001.D707---D506.X4_jctseq	orange	1.0124188
+HI.4112.001.D707---D507.X6_jctseq	black	0.8856299
+HI.4112.001.D707---D508.X7_jctseq	black	0.9240887
+HI.4112.001.D708---D501.X8_jctseq	black	0.8487697
+HI.4112.001.D708---D502.X9_jctseq	black	1.3837194

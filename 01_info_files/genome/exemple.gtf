@@ -1,0 +1,10 @@
+scaffold100013_cov84	indexed_genome	exon	2719	4007	95.00	+	.	transcript_id "TRINITY_DN65650_c3_g11_i1.mrna1"; gene_id "TRINITY_DN65650_c3_g11_i1.path1"; gene_name "TRINITY_DN65650_c3_g11_i1";
+scaffold100013_cov84	indexed_genome	exon	13160	13200	87.00	+	.	transcript_id "TRINITY_DN65650_c3_g11_i1.mrna1"; gene_id "TRINITY_DN65650_c3_g11_i1.path1"; gene_name "TRINITY_DN65650_c3_g11_i1";
+scaffold100013_cov84	indexed_genome	CDS	2852	3013	.	+	0	transcript_id "TRINITY_DN65650_c3_g11_i1.mrna1"; gene_id "TRINITY_DN65650_c3_g11_i1.path1"; gene_name "TRINITY_DN65650_c3_g11_i1";
+scaffold100031_cov77	indexed_genome	exon	27983	28069	86.00	+	.	transcript_id "TRINITY_DN8486_c0_g1_i1.mrna1"; gene_id "TRINITY_DN8486_c0_g1_i1.path1"; gene_name "TRINITY_DN8486_c0_g1_i1";
+scaffold100031_cov77	indexed_genome	exon	28365	28517	87.00	+	.	transcript_id "TRINITY_DN8486_c0_g1_i1.mrna1"; gene_id "TRINITY_DN8486_c0_g1_i1.path1"; gene_name "TRINITY_DN8486_c0_g1_i1";
+scaffold100031_cov77	indexed_genome	CDS	27983	28014	.	+	0	transcript_id "TRINITY_DN8486_c0_g1_i1.mrna1"; gene_id "TRINITY_DN8486_c0_g1_i1.path1"; gene_name "TRINITY_DN8486_c0_g1_i1";
+scaffold100047_cov73	indexed_genome	exon	1603	1959	99.00	+	.	transcript_id "TRINITY_DN59250_c0_g1_i1.mrna1"; gene_id "TRINITY_DN59250_c0_g1_i1.path1"; gene_name "TRINITY_DN59250_c0_g1_i1";
+scaffold100047_cov73	indexed_genome	exon	9457	9532	100.00	+	.	transcript_id "TRINITY_DN59250_c0_g1_i1.mrna1"; gene_id "TRINITY_DN59250_c0_g1_i1.path1"; gene_name "TRINITY_DN59250_c0_g1_i1";
+scaffold100047_cov73	indexed_genome	exon	10487	10573	100.00	+	.	transcript_id "TRINITY_DN59250_c0_g1_i1.mrna1"; gene_id "TRINITY_DN59250_c0_g1_i1.path1"; gene_name "TRINITY_DN59250_c0_g1_i1";
+scaffold100047_cov73	indexed_genome	CDS	1849	1959	.	+	0	transcript_id "TRINITY_DN59250_c0_g1_i1.mrna1"; gene_id "TRINITY_DN59250_c0_g1_i1.path1"; gene_name "TRINITY_DN59250_c0_g1_i1";
